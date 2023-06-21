@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "712606620219",
+    "project_id": "adkarflutter",
+    "storage_bucket": "adkarflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712606620219:android:6afa02b21544478a649a1e",
+        "android_client_info": {
+          "package_name": "com.taha.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712606620219-lcrq0icuonqiv5fm99olv021tum5ht13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taha.first_app",
+            "certificate_hash": "b300ba71294bc677cb3939b5e095f3e084a2eb5f"
+          }
+        },
+        {
+          "client_id": "712606620219-0sg2jqbljd4nt8rg0ebuc1a5rkv4pdg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4SgVdpifimW8z02TyZX75F4MshQNhp3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712606620219-0sg2jqbljd4nt8rg0ebuc1a5rkv4pdg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
